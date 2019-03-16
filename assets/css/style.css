@@ -1,0 +1,98 @@
+body{
+    background-image: url("../images/full-bloom.png"); 
+}
+
+.title{
+    background-color: #B4045F; 
+    padding: 2.5%; 
+    color: white;  
+    margin-left: 40%; 
+    margin-right: 40%; 
+    font-size: 1.2em; 
+    margin-bottom: 1%; 
+    text-align:center; 
+}
+
+.instructions{
+    background-color: #848484; 
+    color: white; 
+    margin-left: 25%; 
+    margin-right: 25%; 
+    line-height: 1.5em; 
+    padding: 3%; 
+    margin-bottom: 1%; 
+}
+
+.container{
+    width: 50%; 
+    margin:auto;
+    text-align: center; 
+}
+
+.inline{
+    display: inline-block; 
+}
+
+#randomNumber{
+    background-color:#FF8000; 
+    color: white; 
+    width: 25%; 
+    padding: 1em; 
+    text-align: center; 
+    margin:auto; 
+}
+
+#wins{
+    background-color:#FF8000; 
+    color: white; 
+    width: 25%; 
+    padding: 1em; 
+    text-align: center; 
+    margin-bottom: 2%; 
+}
+
+#losses{
+    background-color:#FF8000; 
+    color: white; 
+    width: 25%; 
+    padding: 1em; 
+    text-align: center; 
+    margin-bottom: 2%; 
+}
+
+.gems{
+    clear:both; 
+    width: 50%; 
+    margin:auto; 
+    text-align: center; 
+}
+
+.gem{
+    display: inline; 
+}
+
+.score{
+    background-color: #04B486; 
+    color: white; 
+    width: 15%; 
+    padding: 1em; 
+    text-align: center; 
+    margin-top:1%; 
+    margin-left: auto; 
+    margin-right: auto; 
+    margin-bottom: auto; 
+}
+
+#totalScore{
+    background-color: #04B486; 
+    color: white; 
+    width: 15%; 
+    padding: 1em; 
+    text-align: center; 
+    margin-top:1%; 
+    margin-left: auto; 
+    margin-right: auto; 
+    margin-bottom: 5%; 
+}
+
+
