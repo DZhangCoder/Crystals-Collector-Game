@@ -1,0 +1,26 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <meta http-equiv="X-UA-Compatible" content="ie=edge">
+    <title>Class</title>
+</head>
+<body>
+    <script>
+    function countVowls (string){
+        var input = string.toLowerCase(); 
+        var count = 0; 
+        var vowels = ["a","e","i","o","u"] 
+        for (i=0; i<string.length; i++){
+            if (vowels.indexOf(input[i])===-1){
+                count++; 
+            }
+        }
+        return count; 
+    }
+    console.log (countVowls ("you are great")); 
+
+    </script>
+</body>
+</html>
