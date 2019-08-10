@@ -15,3 +15,9 @@ Here are the instructions of the game:
 - HTML 5
 - CSS
 - Javascript 
+
+### Contact Information 
+Please contact me at: ddzhang2018@gmail.com if you have any questions!
+
+### Deployed Link
+https://dzhangcoder.github.io/Crystals-Collector-Game/
